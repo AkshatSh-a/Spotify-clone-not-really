@@ -30,3 +30,7 @@ Download all the files, then run it in your IDE's such as VSc.
 
    ```bash
    git clone https://github.com/AkshatSh-a/spotify-clone-not-really.git
+
+##ship-link
+
+https://hackclub.slack.com/archives/C0M8PUPU6/p1724692734221679
